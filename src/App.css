@@ -33,10 +33,11 @@
 }
 
 .bg-image {
-  /* width: 300px; */
+  width: 650px;
   position: absolute;
   z-index: 10;
-  top: 50;
+  top: 50px;
+
 }
 
 .password-icon-wrap {
