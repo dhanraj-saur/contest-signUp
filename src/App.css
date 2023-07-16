@@ -33,10 +33,10 @@
 }
 
 .bg-image {
-  width: 650px;
+  width: 520px;
   position: absolute;
   z-index: 10;
-  top: 100px;
+  top: 140px;
 
 }
 
@@ -120,7 +120,7 @@ svg {
 
 .icon {
   display: flex;
- 
+
   margin-left: 130px;
 }
 
@@ -130,13 +130,14 @@ svg {
   align-items: center;
   justify-content: space-around;
   text-align: center;
- 
+
   gap: 10px;
   border: 1px solid #EAEAEA;
   margin-top: 20px;
   border-radius: 5px;
 }
-.google p{
+
+.google p {
   color: #A0A0A0;
   font-size: 10px;
   text-align: center;
@@ -152,18 +153,20 @@ svg {
   border: 1px solid #EAEAEA;
   margin-top: 20px;
   border-radius: 5px;
- 
-}
-.social-icon{
-  width: 30px;
-}
-.facebook p{
-  color: #A0A0A0;
-  font-size: 10px;
-  
+
 }
 
-.heads{
+.social-icon {
+  width: 30px;
+}
+
+.facebook p {
+  color: #A0A0A0;
+  font-size: 10px;
+
+}
+
+.heads {
   margin-left: 270px;
   margin-top: 20px;
   color: #A0A0A0;

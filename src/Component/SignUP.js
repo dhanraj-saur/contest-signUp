@@ -54,7 +54,7 @@ const SignUP = () => {
                             <p>sign up with google</p>
                         </div>
                         <div className='facebook'>
-                            <img src={facebookIcon}  className='social-icon' alt='facebook icon'/>
+                            <img src={facebookIcon} className='social-icon' alt='facebook icon' />
                             <p>sign up with facebook</p>
                         </div>
                     </div>
